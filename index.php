@@ -238,7 +238,7 @@ require_once 'koneksi.php';
                     <table width="400" border="0" cellpadding="4" cellspacing="3">
                         <tr>
                             <td width="20%" height="23" align="center" valign="middle" bgcolor="#0D47CD">
-                                <a href="formkategori.php?isian=1">Isi Formulir Kategori</a>
+                                <a href="formkategori.php?isian=1">Isi Data Formulir Kategori</a>
                             </td>
                             <td width="20%" align="center" valign="middle" bgcolor="#0D47CD">
                                 <a href="formartikel.php?isian=1">Isi Formulir Artikel</a>
