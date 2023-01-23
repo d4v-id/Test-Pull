@@ -1,0 +1,262 @@
+/*----------------------*/	
+	/*style*/
+/*----------------------*/
+.title{
+	background-color: #28a745;
+	box-shadow: 0px 2px 8px black;
+	letter-spacing: 3px;
+}
+.table-style{
+	background-color: white;
+	border-radius: 8px;
+}
+.font-style{
+	padding: 1px;
+	font-size: 13px;
+	color: black;
+}
+.font-style-title{
+	background-color: transparent;
+	box-shadow: 0px 0px 10px #28a745;
+	text-transform: uppercase;
+	letter-spacing: 3px;
+	border-radius: 8px;
+	color: white;
+	border-style: none;
+}
+.style-title-notify{
+	color: white;
+	text-transform: uppercase;
+	letter-spacing: 3px;
+	border-style: none;
+	border-radius: 8px;
+	box-shadow: 0px 2px 8px black;
+}
+.font-notify{
+	font-family: 'Share Tech Mono', monospace;
+}
+.width-title{
+	width: 100%;
+}
+.search-title{
+	background-color: #d83644;
+	box-shadow: 0px 2px 8px black;
+	color: white;
+	border-style: none;
+	text-transform: uppercase;
+	letter-spacing: 3px;
+}
+.style-result{
+	color: black;
+	font-size: 13px;
+}
+.search input[type=text]{
+	background-color: #28a745;
+	color: white;
+	border: none;
+}
+input[type=text]{
+	width: 100%;
+	-webkit-transition: 0.5s;
+	transition: 2s;
+}
+input[type=text]:focus{
+	background-color: black;
+	color: white;
+	box-shadow: inset 0px 0px 23px #28a745;
+	border-style: inset 0px 0px 23px #28a745;
+	border: none;
+}
+input[type=url]{
+	width: 100%;
+	-webkit-transition: 0.5s;
+	transition: 2s;
+}
+input[type=url]:focus{
+	background-color: black;
+	color: white;
+	box-shadow: inset 0px 0px 23px #28a745;
+	border-style: inset 0px 0px 23px #28a745;
+	border: none;
+}
+input[type=email]{
+	width: 100%;
+	-webkit-transition: 0.5s;
+	transition: 2s;
+}
+input[type=email]:focus{
+	background-color: black;
+	color: white;
+	box-shadow: inset 0px 0px 23px #28a745;
+	border-style: inset 0px 0px 23px #28a745;
+	border: none;
+}
+.style-textarea textarea{
+	width: 100%;
+	-webkit-transition: 0.5s;
+	transition: 2s;
+}
+.style-textarea textarea:focus{
+	background-color: black;
+	color: white;
+	box-shadow: inset 0px 0px 23px #28a745;
+	border-style: inset 0px 0px 23px #28a745;
+	border-style: none;
+}
+textarea[type=url]{
+	width: 100%;
+	-webkit-transition: 0.5s;
+	transition: 2s;
+}
+textarea[type=url]:focus{
+	background-color: black;
+	color: white;
+	box-shadow: inset 0px 0px 23px #28a745;
+	border-style: inset 0px 0px 23px #28a745;
+	border-style: none;
+}
+.totalhead{
+	margin-bottom: 3px;
+	font-size: 15px;
+	box-shadow: 0px 2px 8px black;
+	background-color: #d83644;
+	border-radius: 4px;
+	color: white;
+}
+.text-align-left{
+	text-align: left;
+}
+.support-team{
+	background-color: transparent;
+	border-style: none;
+	box-shadow: inset 0px 0px 13px white;
+	border-radius: 9px
+}
+.rules{
+	background-color: transparent;
+	border-style: none;
+	box-shadow: 0px 0px 5px white;
+	border-radius: 5px;
+}
+.rules-title{
+	background-color: transparent;
+	border-color: #d83644;
+	border-radius: 8px;
+	color: white;
+	font-size: 17px;
+
+}
+.rules-table{
+	font-family: 'Share Tech Mono', monospace;
+	color: white;
+	font-size: 12px;
+	border-radius: 8px;
+	text-align: justify;
+	letter-spacing: 2px;
+	border-style: none;
+	box-shadow: 0px 0px 5px white;
+	background-color: transparent;
+}
+.rules-body td{
+	background-color: transparent;
+}
+.rules-footer{
+	background-color: transparent;
+	color: #d83644;
+	font-size: 12px;
+}
+.kopikanan{
+	font-family: 'Share Tech Mono', monospace;
+	color: white;
+	text-align: center;
+	font-size: 12px;;
+}
+.text-white{
+	color: white;
+}
+/**/
+/*hover link*/
+/**/
+.hover a:link{
+	color: black;
+	text-decoration-line: none;
+}
+.hover a:hover{
+	color: #d83644;
+	font-size: 13px;
+	text-decoration-line: none;
+}
+.hover a:visited{
+	color: black;
+	text-decoration-line: none;
+}
+.hover a:visited:hover{
+	color: #d83644;
+	text-decoration-line: none;
+}
+.hover a:active{
+	color: #d83644;
+	text-decoration-line: none;
+}
+.input-hover:hover{
+	background color: transparent;
+	color: white;
+	box-shadow: 0px 0px 7px #28a745;
+}
+.input-hover:active{
+	background color: transparent;
+	color: white;
+	box-shadow: 0px 0px 7px #28a745;
+}
+.input-hover:visited{
+	background color: transparent;
+	color: white;
+	box-shadow: 0px 0px 7px #28a745;
+}
+.hover-mirror:link{
+	margin: 0;
+}
+.hover-mirror:hover{
+	color: white;
+	font-style: 0px 0px 5px #d83644;
+	font-size: 16px;
+	border-color: white;
+	border-style: none;
+}
+.hover-mirror:visited{
+	color: white;
+}
+.klik{
+	color: white;
+}
+.klik:hover{
+	color: #d83644;
+}
+.klik:visited{
+	color: white;
+}
+.klik:visited:hover{
+	color: #d83644;
+}
+.pagination-item{
+	color: white;
+	background: rgb(9,188,164);
+	padding: 5px 10px 5px 10px;
+}
+.pagination-item:hover{
+	text-decoration: none;
+	color: white;
+	background: rgb(9,188,255);
+}
+
+.pagination-item-active{
+	text-decoration: none;
+	color: white;
+	background: rgb(9,188,80);
+	padding: 5px 3px 5px 5px;
+}
+.paginate{
+	width: 900px !important;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
